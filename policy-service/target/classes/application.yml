@@ -1,0 +1,23 @@
+# Application And Database Configurations
+spring:
+  application:
+    name: policy-service
+  datasource:
+    url: jdbc:mysql://localhost:3306/policyDetailsDb
+    username: root
+    password: root123
+  jpa:
+    show-sql: true
+    hibernate:
+      ddl-auto: update
+server:
+  port: 1111
+
+
+# Eureka Configurations
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka
+
+

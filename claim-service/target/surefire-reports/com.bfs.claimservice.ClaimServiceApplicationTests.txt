@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.bfs.claimservice.ClaimServiceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.988 s - in com.bfs.claimservice.ClaimServiceApplicationTests
